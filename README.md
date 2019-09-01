@@ -4,5 +4,5 @@ Solution of the famous Travelling Salesman Problem for the 18 main districts of 
 
 ## Authors
 
-* João Vasconcelos: [jmnmv12](https://github.com/jmnmv12)
-* Tiago Mendes: [tiagocmendes](https://github.com/tiagocmendes)
+* **João Vasconcelos**: [jmnmv12](https://github.com/jmnmv12)
+* **Tiago Mendes**: [tiagocmendes](https://github.com/tiagocmendes)
